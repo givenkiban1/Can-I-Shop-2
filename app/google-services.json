@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095281299809",
+    "firebase_url": "https://canishop-c5574.firebaseio.com",
+    "project_id": "canishop-c5574",
+    "storage_bucket": "canishop-c5574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095281299809:android:7816fe3d1347dfbb1c3520",
+        "android_client_info": {
+          "package_name": "com.example.canishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095281299809-p8muqgq7buvgrrrnjjtgt9ioi2gjrg64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.canishop",
+            "certificate_hash": "eb0c2e542af99f3700667b44d5e3e0b4758be2ae"
+          }
+        },
+        {
+          "client_id": "1095281299809-eeoj6g8566h3moegctoofhddhi685fgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Ha2JDiaj-bFtH4RXLnzlAZrP8ErdB7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095281299809-eeoj6g8566h3moegctoofhddhi685fgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
